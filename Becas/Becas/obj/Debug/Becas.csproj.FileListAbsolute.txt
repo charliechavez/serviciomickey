@@ -1,0 +1,11 @@
+C:\Users\Angel\Desktop\ServicioSocialESCOM\Becas\Becas\bin\Becas.dll.config
+C:\Users\Angel\Desktop\ServicioSocialESCOM\Becas\Becas\bin\Becas.dll
+C:\Users\Angel\Desktop\ServicioSocialESCOM\Becas\Becas\bin\Becas.pdb
+C:\Users\Angel\Desktop\ServicioSocialESCOM\Becas\Becas\obj\Debug\Becas.dll
+C:\Users\Angel\Desktop\ServicioSocialESCOM\Becas\Becas\obj\Debug\Becas.pdb
+C:\Users\Angel\Desktop\ServicioSocialESCOM\Becas\Becas\obj\Debug\Becas.csprojResolveAssemblyReference.cache
+C:\Users\Pachayo-W8.1-x64\Documents\Visual Studio 2012\Projects\ServicioSocialESCOM\Becas\Becas\bin\Becas.dll
+C:\Users\Pachayo-W8.1-x64\Documents\Visual Studio 2012\Projects\ServicioSocialESCOM\Becas\Becas\bin\Becas.pdb
+C:\Users\Pachayo-W8.1-x64\Documents\Visual Studio 2012\Projects\ServicioSocialESCOM\Becas\Becas\obj\Debug\Becas.csprojResolveAssemblyReference.cache
+C:\Users\Pachayo-W8.1-x64\Documents\Visual Studio 2012\Projects\ServicioSocialESCOM\Becas\Becas\obj\Debug\Becas.dll
+C:\Users\Pachayo-W8.1-x64\Documents\Visual Studio 2012\Projects\ServicioSocialESCOM\Becas\Becas\obj\Debug\Becas.pdb
